@@ -1,9 +1,9 @@
-# Hi there, I'm Nawid 👋✨
+# Hi there, I'm Nawid 👋
 
 🎓 Second-year **Software Development student** at [Linnaeus University (LNU)](https://lnu.se/) in Kalmar, Sweden.  
-💻 Passionate about **web development**, **JavaScript**, and building **real-world applications**.  
-🌱 Currently learning: **Node.js**, **React Native**, and **Java**.  
-⚡ Interests: Tech 💻, football ⚽, problem-solving 🧩, and creating useful apps 🚀.  
+ Passionate about **web development**, **JavaScript**, and building **real-world applications**.  
+ Currently learning: **Node.js**, **React Native**, and **Java**.  
+ Interests: Tech , football , problem-solving , and creating useful apps .  
 
 ---
 
@@ -23,20 +23,20 @@
 ---
 
 ## 📌 Current Projects
-- ⚽ Building a **football app** using React Native & Expo  
-- 📚 Developing an **AI-powered driving license study app**  
-- 🔧 Exploring **real-time applications with WebSockets**  
-- 🕹️ Experimenting with **fun side projects** to sharpen my skills  
+-  Building a **football app** using React Native & Expo  
+-  Developing an **AI-powered driving license study app**  
+-  Exploring **real-time applications with WebSockets**  
+-  Experimenting with **fun side projects** to sharpen my skills  
 
 ---
 
 ---
 
-## 🌍 Fun Facts
-- 🥘 Worked in the restaurant industry since I was 17  
-- 🐕 Love dogs (except when they steal my pizza 🍕😂)  
-- 🌍 Dreaming about building apps that people actually use in real life  
+##  Fun Facts
+-  Worked in the restaurant industry since I was 17  
+-  Love dogs (except when they steal my pizza 🍕😂)  
+-  Dreaming about building apps that people actually use in real life  
 
 ---
 
-⭐️ *Feel free to check out my repositories and connect with me!* 🚀
+ *Feel free to check out my repositories and connect with me!* 🚀
