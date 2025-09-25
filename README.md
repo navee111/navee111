@@ -19,11 +19,6 @@
 - 📚 Developing an **AI-powered driving license study app**  
 - 🔧 Exploring **real-time applications with WebSockets**  
 
-
 ## 📊 GitHub Stats
-![Nawid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)  
-
-
-
+![GitHub Stats](https://stats.quine.sh/YourUsername/github?theme=dark)
+![Languages](https://stats.quine.sh/YourUsername/languages-over-time?theme=dark)
