@@ -31,11 +31,6 @@
 
 ---
 
-##  Fun Facts
--  Worked in the restaurant industry since I was 17  
--  Love dogs (except when they steal my pizza 🍕😂)  
--  Dreaming about building apps that people actually use in real life  
-
 ---
 
  *Feel free to check out my repositories and connect with me!* 🚀
